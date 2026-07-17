@@ -1,36 +1,83 @@
-<h1 align="center">Hi 👋, I'm Ayush kumar</h1>
-<h3 align="center">Aspiring AI Engineer Building projects & solving DSA daily</h3>
+<h1 align="center">Hi, I'm Ayush Kumar</h1>
+<h3 align="center">Backend Developer · Java · Spring Boot · MySQL</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=git-emir&label=Profile%20views&color=0e75b6&style=flat" alt="git-emir" /> </p>
+<br/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=git-emir" alt="git-emir" /></a> </p>
+## About Me
 
-- 🔭 I’m currently working on [ReLive AI](https://cozy-jalebi-71f897.netlify.app/)
+I build backend systems bottom-up — starting from raw fundamentals before moving to frameworks.
 
-- 🌱 I’m currently learning **AI/ML,MLOps,Java,DSA,DBMS,Cloud Basics**
+Currently focused on:
+- **Backend Engineering** — Java, Spring Boot, REST APIs, JDBC, MySQL
+- **Data Structures & Algorithms** — daily practice on LeetCode
+- **Building projects I can explain line by line**, not just run
 
-- 👯 I’m looking to collaborate on **AI/ML projects and innovative software solutions**
+<br/>
 
-- 💬 Ask me about **java,DSA,AI/ML**
+## What I've Built
 
-- 📫 How to reach me **kumar2002ayush@gmail.com**
+### 🗂️ Order & Inventory Management System
+A production-style backend REST API built in phases:
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fg6iqTMv3iRgOXYJb--VKwQIyDwXuoNi/view?usp=drivesdk](https://drive.google.com/file/d/1fg6iqTMv3iRgOXYJb--VKwQIyDwXuoNi/view?usp=drivesdk)
+| Phase | What I built | Why |
+|---|---|---|
+| Phase 0 | Raw JDBC — manual connections, PreparedStatement, transactions | Understand what frameworks abstract |
+| Phase 1 | Servlets — HTTP layer without any framework | Understand the request lifecycle |
+| Phase 2 | Clean Architecture — DAO, Service, Controller layers | Write code interviewers respect |
+| Phase 3 | Spring Core — IoC, Dependency Injection, Beans | Understand the container before using it |
+| Phase 4 | Spring Boot REST APIs — JdbcTemplate, JSON, Postman | Industry standard |
+| Phase 5 | Production-grade — exception handling, validation, logging | Real-world readiness |
 
-- ⚡ Fun fact **Fun fact: I’m building AI to help humans, but I still struggle to help my own code 😅**
+**Key technical decisions:**
+- Atomic SQL update for race-condition-safe stock management
+- `@Transactional` with manual rollback understanding (built it manually first)
+- Custom exceptions with proper HTTP status codes (400 vs 404 vs 500)
+- Constructor injection over field injection for testability
+- DB credentials via environment variables — never hardcoded
 
-<h3 align="left">Connect with me:</h3>
+[View Repository →](https://github.com/Git-emir/order-inventory-system)
+
+<br/>
+
+## Tech Stack
+
+**What I've actually built with:**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**Currently learning:**
+
+![DSA](https://img.shields.io/badge/DSA-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)
+
+<br/>
+
+## GitHub Stats
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kumar2002ayush?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kumar2002ayush?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_ayush_kumar2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_ayush_kumar2002" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/emirstark" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="emirstark" height="30" width="40" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=git-emir&theme=dark&hide_border=true" alt="streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=git-emir&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true" alt="top langs" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=git-emir&show_icons=true&locale=en&layout=compact" alt="git-emir" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=git-emir&show_icons=true&locale=en" alt="git-emir" /></p>
+## Connect
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=git-emir&" alt="git-emir" /></p>
+<a href="https://www.linkedin.com/in/kumar2002ayush" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.leetcode.com/emirstark" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:kumar2002ayush@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+</a>
