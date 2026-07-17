@@ -1,17 +1,17 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Ayush%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Java%20·%20Spring%20Boot%20%7C%20AI/ML&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=200&section=header&text=Ayush%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Java%20·%20Spring%20Boot%20%7C%20AI-Driven%20Applications&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+Scalable+REST+APIs;AI+%26+ML+Enthusiast;DSA+%7C+Daily+LeetCode+Practice" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Designing+Production-Ready+REST+APIs;Exploring+Generative+AI+%26+AI+Engineering" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-6e40c9?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-4B0082?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-1E3A8A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-059669?style=for-the-badge"/>
 </p>
 
 <p align="center">
@@ -30,27 +30,19 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=git-emir&style=for-the-badge&color=6e40c9&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/git-emir?style=for-the-badge&color=6e40c9&label=FOLLOWERS"/>
+  <img src="https://komarev.com/ghpvc/?username=git-emir&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/git-emir?style=for-the-badge&color=2563EB&label=FOLLOWERS"/>
 </p>
 
 ---
 
 ## ◈ About
 
-<table>
-<tr>
-<td>
+I enjoy building backend applications, writing clean and maintainable code, and continuously expanding my understanding of backend architecture, distributed systems, and modern software engineering through hands-on projects.
 
-I am a 4th-year engineering student and backend developer with a strong foundation in **Java** and the **Spring ecosystem**. I design and build scalable, secure REST APIs and production-ready systems. Alongside backend engineering, I actively explore **AI/ML** to develop intelligent solutions—ranging from computer vision applications to predictive models.
+Alongside backend engineering, I actively explore Generative AI and AI Engineering to build intelligent software systems, developer tools, and AI-powered applications.
 
-My focus is on writing clean, maintainable code and delivering features that solve real business problems. Currently, I am deepening my expertise in data structures, system design, and cloud deployment.
-
-**Open to:** SDE-1 roles · Backend Engineering · Java/Spring Boot positions · AI/ML collaborative projects
-
-</td>
-</tr>
-</table>
+**Open to:** SDE roles · Backend Engineering · Java/Spring Boot positions · AI-integrated software projects
 
 ---
 
@@ -58,25 +50,33 @@ My focus is on writing clean, maintainable code and delivering features that sol
 
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,c&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=java,python&theme=dark"/>
 </p>
 
 <p align="center"><strong>Backend & Databases</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,mysql,maven,hibernate&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=spring,mysql,maven&theme=dark"/>
 </p>
 
-<p align="center"><strong>AI / ML</strong></p>
+<p align="center"><strong>AI & Computer Vision</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=py,opencv&theme=dark"/>
+  <img src="https://img.shields.io/badge/MediaPipe-00C9A7?style=for-the-badge&logo=mediapipe&logoColor=white"/>
 </p>
 
 <p align="center"><strong>Tools & Platforms</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,postman,googlecloud&theme=dark"/>
-  <br/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea&theme=dark"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 </p>
+
+---
+
+## ◈ Approach
+
+I enjoy solving backend problems through practical projects and continuous learning.
+
+My focus is on writing clean, maintainable code, understanding how systems work under the hood, and exploring how AI can be integrated into modern software applications.
 
 ---
 
@@ -87,40 +87,51 @@ My focus is on writing clean, maintainable code and delivering features that sol
 
 <br/>
 
-A production-grade backend REST API built with Java and Spring Boot. Designed to handle concurrent stock updates with robust transaction management and comprehensive error handling.
+A production-ready backend REST API built with Java and Spring Boot. Designed to handle concurrent stock updates with robust transaction management and comprehensive error handling.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Java 21 · Spring Boot 3.5 · JdbcTemplate · MySQL 8 · Maven |
+| **Stack** | Java · Spring Boot · Spring JDBC · MySQL · Maven |
 | **Architecture** | Controller → Service → Repository (clean 3‑layer design) |
 | **Concurrency** | Atomic SQL `UPDATE` with conditional checks for race‑condition‑safe inventory |
 | **Transactions** | `@Transactional` with proper isolation levels |
 | **Exception Handling** | `@ControllerAdvice` · Custom exceptions · Consistent HTTP status codes |
-| **Validation** | `@Valid` · `@NotBlank` · `@Positive` · `@Min` on request DTOs |
+| **Validation** | `@Valid` · `@NotBlank` · `@Positive` on request DTOs |
 | **Security** | Environment‑based DB credentials (no hard‑coded secrets) |
 | **Logging** | SLF4J for structured logging across all layers |
 
-**Key Features**: Real-time stock sync, order tracking, audit logs, and report generation.
+**Key Features**
+
+• Product Management  
+• Customer Management  
+• Order Placement  
+• Atomic Inventory Updates  
+• Transaction Management  
+• Request Validation  
+• Global Exception Handling  
+• Structured Logging
 
 [View Repository →](https://github.com/Git-emir/order-inventory-system)
 
 </details>
 
 <details>
-<summary><b>🧠 ReLive AI</b> — AI-driven Rehabilitation for Stroke Patients</summary>
+<summary><b>🧠 AI Rehabilitation Assistant (ReLive AI)</b> — Python · OpenCV · MediaPipe</summary>
 
 <br/>
 
-An AI-powered platform that assists stroke patients with physical therapy exercises. Uses computer vision and pose estimation to track patient movements and provide real-time corrective feedback, enabling remote rehabilitation.
+An AI-powered rehabilitation assistant that uses computer vision and pose estimation to guide physical therapy exercises for stroke patients. The system provides real-time corrective feedback, enabling effective remote rehabilitation.
 
 | Attribute | Detail |
 |---|---|
-| **Stack** | Python · TensorFlow · MediaPipe · OpenCV · Flask · MongoDB |
-| **Core Engine** | Pose estimation (MediaPipe) + exercise classification (CNN) |
-| **Deployment** | Web application with real-time feedback loop |
-| **Impact** | Enables patients to perform guided therapy at home; tracks progress over time |
+| **Stack** | Python · OpenCV · MediaPipe · Flask |
+| **Core Engine** | Pose estimation (MediaPipe) + exercise classification |
+| **Feedback Loop** | Real-time corrective cues via audio/visual prompts |
+| **Deployment** | Web application with live video processing |
 
-**How it works**: The system detects key body landmarks, classifies the exercise being performed, and evaluates the correctness of each repetition. Patients receive audio/visual cues to adjust their posture.
+**How it works**: The system detects key body landmarks, classifies the exercise being performed, and evaluates movement correctness.
+
+**Future Enhancement**: Integrate Generative AI to provide adaptive rehabilitation guidance and personalized exercise feedback.
 
 [View Repository →](https://github.com/Git-emir/relive-ai)
 
@@ -131,7 +142,7 @@ An AI-powered platform that assists stroke patients with physical therapy exerci
 
 <br/>
 
-A curated collection of my daily LeetCode solutions in Java, maintained with consistent contributions.
+A curated collection of daily LeetCode solutions in Java, maintained with consistent contributions.
 
 | Attribute | Detail |
 |---|---|
@@ -145,19 +156,21 @@ A curated collection of my daily LeetCode solutions in Java, maintained with con
 
 ---
 
-## ◈ Current Focus
+## ◈ Current Learning
 
 ```yaml
-building:
-  - Order & Inventory System (Backend) – Production-ready REST APIs
-  - ReLive AI – AI-powered rehabilitation assistant
+backend:
+  - Spring Security
+  - Docker
+  - Redis
+  - Microservices
+  - System Design
 
-learning:
-  - Advanced Data Structures & Algorithms (daily LeetCode)
-  - Spring Data JPA (upcoming)
-  - Spring Security + JWT (upcoming)
-  - Cloud deployment (AWS/GCP basics)
+ai:
+  - Generative AI
+  - Prompt Engineering
+  - Retrieval-Augmented Generation (RAG)
 
-exploring:
-  - MLOps practices
-  - Deep Learning for healthcare
+currently_building:
+  - Production-ready Backend Applications
+  - AI-integrated Software Systems
