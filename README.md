@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Ayush%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Java%20%7C%20Spring%20Boot%20%7C%20MySQL&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=200&section=header&text=Ayush%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Java%20·%20Spring%20Boot%20%7C%20AI/ML&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;Built+systems+from+JDBC+to+REST+APIs;Fundamentals+first.+Frameworks+second.;DSA+%7C+Daily+LeetCode+Practice" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=9B59B6&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+%26+Spring+Boot;Building+Scalable+REST+APIs;AI+%26+ML+Enthusiast;DSA+%7C+Daily+LeetCode+Practice" alt="Typing SVG" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/kumar2002ayush">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:kumar2002ayush@gmail.com">
+  <a href="mailto:ayushkumar.dev1117@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Git-emir">
@@ -42,13 +42,11 @@
 <tr>
 <td>
 
-I build backend systems from the ground up — starting with raw fundamentals before layering frameworks on top. My approach is deliberate: understand what a tool abstracts before trusting it in production.
+I am a 4th-year engineering student and backend developer with a strong foundation in **Java** and the **Spring ecosystem**. I design and build scalable, secure REST APIs and production-ready systems. Alongside backend engineering, I actively explore **AI/ML** to develop intelligent solutions—ranging from computer vision applications to predictive models.
 
-Currently pursuing backend engineering with a focus on Java and the Spring ecosystem. Every project I build is one I can defend technically, line by line.
+My focus is on writing clean, maintainable code and delivering features that solve real business problems. Currently, I am deepening my expertise in data structures, system design, and cloud deployment.
 
-**What drives me:** The gap between "it works" and "I understand why it works." I close that gap before moving forward.
-
-**Open to:** SDE-1 roles · Backend internships · Java/Spring Boot positions
+**Open to:** SDE-1 roles · Backend Engineering · Java/Spring Boot positions · AI/ML collaborative projects
 
 </td>
 </tr>
@@ -68,9 +66,16 @@ Currently pursuing backend engineering with a focus on Java and the Spring ecosy
   <img src="https://skillicons.dev/icons?i=spring,mysql,maven,hibernate&theme=dark"/>
 </p>
 
-<p align="center"><strong>Tools & DevOps</strong></p>
+<p align="center"><strong>AI / ML</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,linux,idea&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark"/>
+</p>
+
+<p align="center"><strong>Tools & Platforms</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github,postman,googlecloud&theme=dark"/>
+  <br/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab"/>
 </p>
 
 ---
@@ -78,37 +83,46 @@ Currently pursuing backend engineering with a focus on Java and the Spring ecosy
 ## ◈ Featured Projects
 
 <details>
-<summary><b>🗂 Order & Inventory Management System</b> — Spring Boot · MySQL · JdbcTemplate · REST APIs</summary>
+<summary><b>🗂 Order & Inventory Management System</b> — Spring Boot · MySQL · REST APIs</summary>
 
 <br/>
 
-A production-style backend REST API built in deliberate phases — raw fundamentals first, frameworks second. This is not a tutorial project. Every layer was built manually before being replaced with its Spring equivalent.
+A production-grade backend REST API built with Java and Spring Boot. Designed to handle concurrent stock updates with robust transaction management and comprehensive error handling.
 
 | Attribute | Detail |
 |---|---|
 | **Stack** | Java 21 · Spring Boot 3.5 · JdbcTemplate · MySQL 8 · Maven |
-| **Architecture** | Controller → Service → Repository (3-layer clean architecture) |
-| **Concurrency** | Atomic conditional SQL UPDATE — race-condition-safe stock management |
-| **Transactions** | `@Transactional` with manual rollback background (built raw first) |
-| **Exception Handling** | `@ControllerAdvice` · Custom exceptions · Proper HTTP status codes |
-| **Validation** | `@Valid` · `@NotBlank` · `@Positive` · `@Min` on request bodies |
-| **Security** | DB credentials via environment variables — never hardcoded |
-| **Logging** | SLF4J — INFO/WARN/ERROR levels at service layer |
+| **Architecture** | Controller → Service → Repository (clean 3‑layer design) |
+| **Concurrency** | Atomic SQL `UPDATE` with conditional checks for race‑condition‑safe inventory |
+| **Transactions** | `@Transactional` with proper isolation levels |
+| **Exception Handling** | `@ControllerAdvice` · Custom exceptions · Consistent HTTP status codes |
+| **Validation** | `@Valid` · `@NotBlank` · `@Positive` · `@Min` on request DTOs |
+| **Security** | Environment‑based DB credentials (no hard‑coded secrets) |
+| **Logging** | SLF4J for structured logging across all layers |
 
-**Build progression:**
-
-```
-Phase 0  →  Raw JDBC · PreparedStatement · Manual transactions
-Phase 1  →  Servlets · HTTP layer · Tomcat · WAR deployment
-Phase 2  →  Clean Architecture · DAO · Service · Controller layers
-Phase 3  →  Spring Core · IoC · Dependency Injection · Beans
-Phase 4  →  Spring Boot · JdbcTemplate · REST APIs · Postman
-Phase 5  →  Production-grade · Exception handling · Validation · Logging
-```
-
-**Interview story:** *"I built it with raw JDBC and Servlets first so I understood the fundamentals, then migrated to Spring Boot and saw exactly what it was abstracting."*
+**Key Features**: Real-time stock sync, order tracking, audit logs, and report generation.
 
 [View Repository →](https://github.com/Git-emir/order-inventory-system)
+
+</details>
+
+<details>
+<summary><b>🧠 ReLive AI</b> — AI-driven Rehabilitation for Stroke Patients</summary>
+
+<br/>
+
+An AI-powered platform that assists stroke patients with physical therapy exercises. Uses computer vision and pose estimation to track patient movements and provide real-time corrective feedback, enabling remote rehabilitation.
+
+| Attribute | Detail |
+|---|---|
+| **Stack** | Python · TensorFlow · MediaPipe · OpenCV · Flask · MongoDB |
+| **Core Engine** | Pose estimation (MediaPipe) + exercise classification (CNN) |
+| **Deployment** | Web application with real-time feedback loop |
+| **Impact** | Enables patients to perform guided therapy at home; tracks progress over time |
+
+**How it works**: The system detects key body landmarks, classifies the exercise being performed, and evaluates the correctness of each repetition. Patients receive audio/visual cues to adjust their posture.
+
+[View Repository →](https://github.com/Git-emir/relive-ai)
 
 </details>
 
@@ -117,13 +131,13 @@ Phase 5  →  Production-grade · Exception handling · Validation · Logging
 
 <br/>
 
-Consistent daily LeetCode practice in Java. 553+ contributions in the last year.
+A curated collection of my daily LeetCode solutions in Java, maintained with consistent contributions.
 
 | Attribute | Detail |
 |---|---|
 | **Language** | Java |
-| **Focus** | Arrays · Strings · Trees · Graphs · Dynamic Programming |
-| **Consistency** | Daily practice tracked via GitHub contributions |
+| **Topics** | Arrays · Strings · Trees · Graphs · Dynamic Programming |
+| **Consistency** | 553+ contributions in the last year (tracked via GitHub) |
 
 [View Repository →](https://github.com/Git-emir/DSA-Leetcode-)
 
@@ -131,95 +145,19 @@ Consistent daily LeetCode practice in Java. 553+ contributions in the last year.
 
 ---
 
-## ◈ Engineering Philosophy
+## ◈ Current Focus
 
 ```yaml
-approach:
-  - "Understand what a tool abstracts before trusting it"
-  - "Build it manually first — then use the framework"
-  - "Write code you can defend in an interview"
+building:
+  - Order & Inventory System (Backend) – Production-ready REST APIs
+  - ReLive AI – AI-powered rehabilitation assistant
 
-currently_learning:
-  - Data Structures & Algorithms (daily)
-  - Spring Data JPA (planned — v2)
-  - Spring Security + JWT (planned — v2)
+learning:
+  - Advanced Data Structures & Algorithms (daily LeetCode)
+  - Spring Data JPA (upcoming)
+  - Spring Security + JWT (upcoming)
+  - Cloud deployment (AWS/GCP basics)
 
-open_to:
-  - SDE-1 Backend roles
-  - Java/Spring Boot internships
-  - Collaborative backend projects
-```
-
----
-
-## ◈ GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=git-emir&show_icons=true&theme=tokyonight&hide_border=true&title_color=9B59B6&icon_color=9B59B6&text_color=ffffff&bg_color=0d1117" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=git-emir&layout=compact&theme=tokyonight&hide_border=true&title_color=9B59B6&text_color=ffffff&bg_color=0d1117" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=git-emir&theme=tokyonight&hide_border=true&stroke=9B59B6&ring=9B59B6&fire=FF6B6B&currStreakLabel=9B59B6&background=0d1117" width="49%"/>
-</p>
-
----
-
-## ◈ GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=git-emir&theme=onestar&no-frame=true&column=6&margin-w=10&margin-h=10" />
-</p>
-
----
-
-## ◈ Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=git-emir&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=9B59B6&line=6e40c9&point=ffffff" width="100%"/>
-</p>
-
----
-
-## ◈ Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Git-emir/Git-emir/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</p>
-
----
-
-## ◈ Coding Profiles
-
-<p align="center">
-  <a href="https://www.leetcode.com/emirstark">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1a1a2e"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/git-emir">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=1a1a2e"/>
-  </a>
-</p>
-
----
-
-## ◈ Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kumar2002ayush">
-    <img src="https://img.shields.io/badge/LinkedIn-%40kumar2002ayush-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:kumar2002ayush@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kumar2002ayush%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <em>"The best engineers don't just use abstractions — they understand what's underneath them."</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e40c9&height=100&section=footer" width="100%"/>
-</p>
+exploring:
+  - MLOps practices
+  - Deep Learning for healthcare
