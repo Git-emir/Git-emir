@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=4A90D9&height=200&section=header&text=Ayush%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Java%20·%20Spring%20Boot%20%7C%20AI-Driven%20Applications&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=200&section=header&text=Ayush%20Kumar&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Engineer%20%7C%20Java%20·%20Spring%20Boot%20%7C%20AI-Driven%20Applications&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4A90D9&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Designing+Production-Ready+REST+APIs;Exploring+Generative+AI+%26+AI+Engineering" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems;Designing+Production-Ready+REST+APIs;Exploring+Generative+AI+%26+AI+Engineering" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-4A90D9?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-1E3A8A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Lucknow%2C%20India-1E90FF?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-0D47A1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-059669?style=for-the-badge"/>
 </p>
 
@@ -30,8 +30,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=git-emir&style=for-the-badge&color=4A90D9&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/git-emir?style=for-the-badge&color=4A90D9&label=FOLLOWERS"/>
+  <img src="https://komarev.com/ghpvc/?username=git-emir&style=for-the-badge&color=1E90FF&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/git-emir?style=for-the-badge&color=1E90FF&label=FOLLOWERS"/>
 </p>
 
 ---
